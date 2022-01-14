@@ -1,0 +1,2 @@
+readfile=pd.read_csv("C:\\Users\\Haris Bin Tariq\\Desktop\\python_for_firsttime\\pandas.kashti.csv" )
+readfile.to_excel("C:\\Users\\Haris Bin Tariq\\Desktop\\python_for_firsttime\\pandas.kashti.xlsx",index = None, header=True)
